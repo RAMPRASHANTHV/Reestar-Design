@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin:20px
+
+}
+
+.nav-desc a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.nav-desc a:hover{
+    color: greenyellow;
+}
+
+.card{
+    margin: 50px
+}
+
+.box1{
+    border: 3px solid black;
+    display: inline-block;
+    margin: 20px 25px;
+    width: 300px;
+    height: 576px;
+    vertical-align: top;
+}
+
+.box1__img{
+    height: 400px;
+    width: 295px;
+}
+
+.box1__title{
+    text-align: center;
+    color: black;
+    font-weight: 800;
+}
+
+.box1__desc{
+    text-align: center;
+    color: black;
+}
+
+.box1__btn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.box2{
+    border: 3px solid black;
+    display: inline-block;
+    margin: 20px 25px;
+    width: 300px;
+    height: 576px;
+    vertical-align: top;
+}
+
+.box2__img{
+    height: 400px;
+    width: 295px;
+}
+
+.box2__title{
+    text-align: center;
+    color: black;
+    font-weight: 800;
+}
+
+.box2__desc{
+    text-align: center;
+    color: black;
+}
+
+.box2__btn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.box3{
+    border: 3px solid black;
+    display: inline-block;
+    margin: 20px 25px;
+    width: 300px;
+    height: 576px;
+    vertical-align: top;
+}
+
+.box3__img{
+    height: 400px;
+    width: 295px;
+}
+
+.box3__title{
+    text-align: center;
+    color: black;
+    font-weight: 800;
+}
+
+.box3__desc{
+    text-align: center;
+    color: black;
+}
+
+.box3__btn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.box4{
+    border: 3px solid black;
+    display: inline-block;
+    margin: 20px 25px;
+    width: 300px;
+    height: 576px;
+    vertical-align: top;
+}
+
+.box4__img{
+    height: 400px;
+    width: 295px;
+}
+
+.box4__title{
+    text-align: center;
+    color: black;
+    font-weight: 800;
+}
+
+.box4__desc{
+    text-align: center;
+    color: black;
+}
+
+.box4__btn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.footer__title{
+    text-align: center;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+.footer__btn{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    padding: 10px 20px;
+    margin-top: 10px;
+    width: 500px;
+    background-color: yellow;
+}
